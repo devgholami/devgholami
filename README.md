@@ -7,7 +7,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-round&logo=Telegram&logoColor=white)](https://t.me/mgh7071)
 
 - 🔭 I’m currently working on *780#
-- ⚡ I’m Fullstack Developer with a tendency towards the FrontEnd
+- ⚡ I’m an Experienced Fullstack Developer with a tendency towards the FrontEnd
 - 🚀 I’m currently learning some great UI frameworks like Vue & React 
 - 👯 I’m looking to collaborate on an attractive group
 - 💬 Ask me about what you need. I'll answer if I know
