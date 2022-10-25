@@ -3,11 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-round&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-gholami/
 )
 [![Stackoverflow Badge](https://img.shields.io/badge/StackOverflow-eeeeee?style=flat-round&logo=stackoverflow&logoColor=orange)]()
-[![Telegram Badge](https://img.shields.io/badge/-Gmail-red?style=flat-round&logo=gmail&logoColor=white)](mailto:mgh7193@gmail.com)
+[![GMail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-round&logo=gmail&logoColor=white)](mailto:mgh7193@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-round&logo=Telegram&logoColor=white)](https://t.me/mgh7071)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-round&logo=google-chrome&logoColor=white)]()
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-round&logo=Twitter&logoColor=white)](https://twitter.com/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-round&logo=Instagram&logoColor=white)](https://instagram.com/)
 
 - 🔭 I’m currently working on *780#
 - ⚡ I’m Fullstack Developer with a tendency towards the FrontEnd
