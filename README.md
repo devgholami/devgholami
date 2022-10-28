@@ -26,6 +26,6 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgholami&layout=compact&theme=vue&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgholami&layout=compact&theme=vue&hide_border=false)
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=devgholami&show_icons=true&hide_border=true&theme=vue)
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=devgholami&show_icons=true&hide_border=false&theme=vue)
